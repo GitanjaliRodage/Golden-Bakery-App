@@ -1,0 +1,7 @@
+{
+  "name": "Golden Bakery App",
+  "description": "A premium digital storefront for Golden Bakery featuring an AI Cake Designer, Smart Menu Assistant, and seamless ordering experience for cakes, ice creams, and refreshments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
